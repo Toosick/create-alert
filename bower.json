@@ -2,7 +2,7 @@
   "name": "create-alert",
   "version": "0.0.1",
   "authors": [
-    "Preston Tighe",
+    "Preston Tighe"
   ],
   "dependencies": {
     "bootbox.js": "bootbox#^4.4.0",
