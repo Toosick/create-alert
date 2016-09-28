@@ -10,5 +10,8 @@
   },
   "description": "Creates alert on the screen.",
   "license": "MIT",
-  "homepage": ""
+  "homepage": "",
+  "main": [
+    "createAlert.js"
+  ]
 }
